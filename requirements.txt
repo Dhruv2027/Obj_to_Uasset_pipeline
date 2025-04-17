@@ -1,0 +1,7 @@
+numpy==2.2.4
+pillow==11.2.0
+pygame==2.6.1
+PyOpenGL==3.1.9
+scipy==1.15.2
+trimesh==4.6.6
+unreal==0.1.1
